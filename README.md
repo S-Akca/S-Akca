@@ -1,9 +1,9 @@
 <h1 align="center">Merhaba 👋, ben Süleyman Akça</h1>
 <h3 align="center">Benim makinemde çalışıyor..</h3>
 
-- 📫 How to reach me **sakca97@gmail.com**
+- 📫 Mail : **sakca97@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Sosyal Medya :</h3>
 <p align="left">
 <a href="https://instagram.com/slymanakca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slymanakca" height="30" width="40" /></a>
 </p>
