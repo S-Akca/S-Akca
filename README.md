@@ -1,5 +1,4 @@
 <h1 align="center">Merhaba 👋, ben Süleyman Akça</h1>
-<h3 align="center">Benim makinemde çalışıyor..</h3>
 
 - 📫 Mail : **sakca97@gmail.com**
 
